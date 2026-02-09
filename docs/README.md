@@ -2,7 +2,8 @@
 
 # Project Architecture
 
-<img width="1366" height="651" alt="Architecture" src="https://github.com/user-attachments/assets/b0534d55-920f-4de2-8919-6beb561e9840" />
+<img width="1536" height="865" alt="Architecture" src="https://github.com/user-attachments/assets/b7d86329-ea8f-4ae0-892a-030a6b1623ba" />
+
 
 ## Overview
 This project involves deploying a simple website using Nginx. The configuration details are specified in the YAML file located in the `config` directory.
